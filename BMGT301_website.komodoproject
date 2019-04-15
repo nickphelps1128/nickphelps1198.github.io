@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="87d99d40-2516-4171-bc76-834adba7ad98" kpf_version="5" name="BMGT301_website.komodoproject">
+<file id="99bcfd7f-3f6b-4a8b-adc0-03b72ded48ad" idref="87d99d40-2516-4171-bc76-834adba7ad98" name="Website_Code_HTML.txt" url=".komodotools/Website_Code_HTML.txt">
+</file>
+<file id="a4ac18f1-69ab-447b-8cbc-23b5dd73f659" idref="87d99d40-2516-4171-bc76-834adba7ad98" name="Website_Code_CSS.txt" url=".komodotools/Website_Code_CSS.txt">
+</file>
+<preference-set idref="87d99d40-2516-4171-bc76-834adba7ad98" id="project" preftype="project">
+  <long id="prefs_version">1</long>
+</preference-set>
+</project>
